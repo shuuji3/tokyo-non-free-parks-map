@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    margin: auto;
+    padding-inline: 2rem;
+    color: darkgreen;
+}
+
+iframe {
+    max-width: min(90vw, 1000px);
+    height: 50vh;
+}
